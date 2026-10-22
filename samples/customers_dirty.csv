@@ -1,0 +1,540 @@
+ Customer ID,Full  Name,E-mail,Phone #,Signup Date,City ,Plan
+C0001,Karen Garcia,KAREN.GARCIA@EXAMPLE.COM,212-555-0146,2024/02/29,Brno,Basic
+C0002,Sam Smith,sam.smith@example.com,212-555-0173,2025-02-10,Prague,Basic
+C0003,Jakub Lopez,JAKUB.LOPEZ@EXAMPLE.COM,(312) 555-0147,  2025-07-14 ,Prague,Pro
+C0004,Sam Taylor,  Sam.Taylor@example.com ,312-555-0110,2024/11/03,Denver,Pro
+C0005,Frank Horvat,frank.horvat@example.com,212-555-0197,2025-08-09,Denver,Team
+C0006,Iris Dvorak,IRIS.DVORAK@EXAMPLE.COM,415-555-0182,2025-11-28,Denver ,Pro
+C0007,Grace Horvat,grace.horvat@example.com,512.555.0110,"Apr 04, 2025",Berlin,Team
+C0008,Maria Muller,MARIA.MULLER@EXAMPLE.COM,0013125550101,2026/05/01,Austin ,Pro
+C0009,Elena Jensen,elena.jensen@example.com,2125550158,"Feb 05, 2025",Brno,Pro
+C0010,Frank Smith,FRANK.SMITH@EXAMPLE.COM,,2024/06/03,Denver,Basic
+C0011,Iris Kowalski,iris.kowalski@example.com,0015125550159,05/10/2025,Brno,Team
+C0012,Anna Muller,anna.muller@example.com,720-555-0103,  2024-11-01 ,Austin,Basic
+C0013,Quinn Kowalski,quinn.kowalski@example.com,0013125550130,2026-01-27,Denver,Basic
+C0014,Tomas Kowalski,tomas.kowalski@example.com,415.555.0110,14.04.2024,Denver,Team
+,,,,,,
+C0015,Leo Horvat,leo.horvat@example.com,512.555.0191,04.05.2025,Denver ,Team
+C0016,Frank Garcia,FRANK.GARCIA@EXAMPLE.COM,512.555.0183,2025-09-18,Denver ,Team
+C0016,Frank Garcia,FRANK.GARCIA@EXAMPLE.COM,512.555.0183,2025-09-18,Denver ,Team
+C0017,David Lopez,DAVID.LOPEZ@EXAMPLE.COM,(312) 555-0127,14.09.2024,Vienna,Pro
+C0018,Leo Taylor,leo.taylor@example.com,512.555.0164,28.06.2025,Prague,Basic
+C0019,Elena Dvorak,ELENA.DVORAK@EXAMPLE.COM,720-555-0167,2025-05-09,Prague,Pro
+C0020,Anna Horvat,ANNA.HORVAT@EXAMPLE.COM,720-555-0177,  2024-07-23 ,Krakow,Basic
+C0021,Iris Taylor,iris.taylor@example.com,(312) 555-0153,"Feb 05, 2025",Vienna,Basic
+C0022,Elena Jensen,elena.jensen@example.com,312.555.0159,2026-02-03,Krakow ,Team
+C0023,Quinn Brown,QUINN.BROWN@EXAMPLE.COM,+1 415 555 0102,"Jul 21, 2025",Prague,Team
+C0024,Hugo  Taylor,  Hugo.Taylor@example.com ,,08.03.2026,Berlin,Team
+C0025,Quinn Weber,Quinn.Weber at example.com,(312) 555-0154,2024-10-02,Austin ,Basic
+C0026,Karen Lopez,karen.lopez@example.com,555-0167,22.04.2024,Berlin,Pro
+C0027,Oscar Lopez,  Oscar.Lopez@example.com ,(415) 555-0104,  2024-01-19 ,Vienna,Basic
+C0028,Nora Moreau,nora.moreau@example.com,555-0139,08/23/2024,Berlin,Pro
+C0029,Iris Brown,IRIS.BROWN@EXAMPLE.COM,+1 720 555 0185,05.09.2025,Prague,Basic
+C0029,Iris Brown,IRIS.BROWN@EXAMPLE.COM,+1 720 555 0185,05.09.2025,Prague,Basic
+C0030,Karen Lopez,KAREN.LOPEZ@EXAMPLE.COM,312.555.0145,01/02/2024,Krakow,Team
+,,,,,,
+C0031,Iris  Silva,iris.silva@example.com,,01/24/2024,Vienna ,Team
+C0032,Tomas Brown,tomas.brown@example.com,415-555-0192,20.10.2025,Lyon,Team
+C0033,Anna Silva,anna.silva@example.com,(312) 555-0110,12.02.2024,Brno,Pro
+C0034,Hugo Dvorak,hugo.dvorak@example.com,(720) 555-0168,2025/11/06,Krakow,Basic
+C0035,Hugo Jensen,hugo.jensen@example.com,555-0161,2024/02/17,Vienna ,Basic
+C0036,Tomas  Weber,tomas.weber@example.com,212.555.0188,"Nov 22, 2025",Austin,Pro
+C0037,Jakub Smith,JAKUB.SMITH@EXAMPLE.COM,+1 720 555 0157,31.01.2025,Vienna ,Basic
+C0038,Elena Weber,elena.weber@example.com,0014155550129,"Jun 16, 2026",Berlin ,Pro
+C0039,Nora Kowalski,NORA.KOWALSKI@EXAMPLE.COM,+1 415 555 0196,"May 09, 2026",Vienna,Team
+C0040,Sam Smith,sam.smith@example.com,(212) 555-0135,2024-02-22,Berlin,Pro
+C0041,Nora  Taylor,nora.taylor@example.com,720.555.0170,2026-01-06,Lyon,Basic
+C0042,Rosa Garcia,rosa.garcia@example.com,4155550194,"Sep 23, 2024",Austin,Team
+C0043,Grace Lopez,grace.lopez@example.com,0014155550197,13.03.2025,Vienna ,Pro
+C0044,Sam Muller,sam.muller@example.com,512-555-0195,"Aug 03, 2024",Prague,Team
+C0045,Grace Smith,  Grace.Smith@example.com ,+1 512 555 0155,next week,Prague,Pro
+,Quinn Silva,quinn.silva@example.com,312.555.0119,  2025-06-18 ,Krakow ,Basic
+C0047,Ben Moreau,ben.moreau@example.com,0017205550181,31.02.2025,Vienna,Basic
+C0047,Ben Moreau,BEN.MOREAU@EXAMPLE.COM,0017205550181,31.02.2025,Vienna,Basic
+C0048,Oscar Rossi,oscar.rossi@example.com,512.555.0167,14.07.2025,Lyon,Pro
+,Nora Smith,nora.smith@example.com,(312) 555-0163,12/13/2025,Denver,Basic
+C0050,Carla Muller,  Carla.Muller@example.com ,0013125550129,08/14/2024,Austin ,Team
+C0051,Nora Taylor,nora.taylor@example.com,512.555.0106,2024/01/25,Prague,Basic
+C0052,David Smith,David.Smith at example.com,0017205550195,02/02/2024,Lyon,Pro
+C0053,Carla Kowalski,carla.kowalski@example.com,+1 312 555 0148,2026-02-26,Brno ,Pro
+C0054,Karen Kowalski,karen.kowalski@example.com,0013125550180,"Feb 11, 2024",Brno,Basic
+C0055,Karen Kowalski,karen.kowalski@example.com,4155550195,10/09/2024,Brno ,Basic
+C0056,Maria Horvat,maria.horvat@example.com,(512) 555-0123,  2026-04-01 ,Berlin,Pro
+C0057,Tomas Smith,tomas.smith@example.com,555-0108,2025/07/19,Lyon,Basic
+C0058,Petra Jensen,PETRA.JENSEN@EXAMPLE.COM,555-0179,2025-07-05,Austin,Team
+C0059,Oscar Muller,  Oscar.Muller@example.com ,+1 720 555 0124,"Mar 07, 2024",Vienna,Basic
+C0060,Ben  Smith,ben.smith@example.com,(512) 555-0147,06/16/2026,Prague ,Team
+C0061,Frank Dvorak,frank.dvorak@example.com,2125550113,09/26/2025,Denver,Basic
+C0062,Grace  Silva,Grace.Silva at example.com,+1 312 555 0179,20.03.2024,Krakow,Basic
+C0063,Elena Moreau,elena.moreau@example.com,+1 415 555 0152,11/14/2025,Prague,Team
+C0064,Leo Moreau,leo.moreau@example.com,212.555.0155,2025-03-09,Lyon,Pro
+C0065,Rosa Garcia,rosa.garcia@example.com,7205550147,05/29/2024,Berlin,Basic
+C0066,Grace  Rossi,grace.rossi@example.com,(512) 555-0140,  2025-09-14 ,Berlin,Basic
+C0067,Petra Garcia,PETRA.GARCIA@EXAMPLE.COM,+1 312 555 0149,06.05.2024,Vienna ,Team
+C0068,Karen Smith,karen.smith@example.com,0014155550183,2024/11/11,Lyon,Pro
+,,,,,,
+C0069,Petra Dvorak,petra.dvorak@example.com,0015125550122,2025-02-13,Denver,Basic
+C0070,Ben  Moreau,ben.moreau@example.com,(720) 555-0110,2026/02/09,Berlin ,Basic
+C0071,Grace Garcia,grace.garcia@example.com,3125550187,2024-03-08,Berlin,Team
+C0072,Quinn Taylor,quinn.taylor@example.com,+1 312 555 0140,07.02.2024,Berlin,Pro
+C0073,Iris Smith,IRIS.SMITH@EXAMPLE.COM,512-555-0171,  2025-08-16 ,Brno,Team
+C0074,Iris Brown,iris.brown@example.com,212.555.0156,2024/06/29,Prague,Team
+C0075,Sam Taylor,Sam.Taylor at example.com,,04.02.2024,Lyon,Pro
+C0076,Ben  Novak,ben.novak@example.com,720-555-0145,"Aug 17, 2024",Berlin,Team
+C0077,Hugo  Jensen,HUGO.JENSEN@EXAMPLE.COM,+1 415 555 0151,2024-01-12,Denver,Team
+C0078,Hugo Garcia,HUGO.GARCIA@EXAMPLE.COM,512.555.0123,2024-06-12,Brno ,Team
+C0079,Quinn Weber,quinn.weber@example.com,720-555-0122,2024-11-12,Prague,Team
+,,,,,,
+C0080,Nora Jensen,NORA.JENSEN@EXAMPLE.COM,(312) 555-0128,24.09.2024,Brno,Team
+C0081,Ben Rossi,ben.rossi@example.com,+1 720 555 0133,19.10.2025,Prague ,Basic
+C0082,Karen Muller,Karen.Muller at example.com,0017205550160,2026/05/09,Prague,Team
+,Maria Weber,maria.weber@example.com,(212) 555-0103,2024/04/19,Denver,Team
+,Maria Weber,MARIA.WEBER@EXAMPLE.COM,(212) 555-0103,2024/04/19,Denver,Team
+C0084,Ben  Jensen,BEN.JENSEN@EXAMPLE.COM,415-555-0125,2025-11-11,Lyon ,Basic
+C0084,Ben  Jensen,BEN.JENSEN@EXAMPLE.COM,415-555-0125,2025-11-11,Lyon ,Basic
+C0085,Carla Silva,carla.silva@example.com,555-0112,11/22/2024,Prague,Pro
+C0086,Tomas Lopez,  Tomas.Lopez@example.com ,0015125550103,2025-06-15,Prague,Basic
+C0087,Jakub Garcia,jakub.garcia@example.com,+1 212 555 0100,2025-05-17,Berlin,Team
+C0088,Frank Rossi,frank.rossi@example.com,3125550114,2025-05-17,Brno,Pro
+C0089,Carla Brown,CARLA.BROWN@EXAMPLE.COM,415-555-0154,28.05.2025,Vienna,Basic
+C0090,Ben Kowalski,ben.kowalski@example.com,512-555-0184,01/29/2026,Krakow,Pro
+C0091,Hugo Lopez,Hugo.Lopez at example.com,555-0119,  2024-09-10 ,Denver ,Pro
+C0092,David Garcia,DAVID.GARCIA@EXAMPLE.COM,555-0138,07.10.2024,Brno,Pro
+C0092,David Garcia,DAVID.GARCIA@EXAMPLE.COM,555-0138,07.10.2024,Brno,Pro
+C0093,Nora Jensen,nora.jensen@example.com,+1 212 555 0118,  2025-09-10 ,Vienna,Pro
+C0094,Hugo Moreau,hugo.moreau@example.com,555-0129,"May 07, 2024",Austin,Basic
+C0095,Frank Rossi,frank.rossi@example.com,,"May 29, 2026",Berlin,Pro
+C0096,David Novak,  David.Novak@example.com ,+1 312 555 0166,2024-04-13,Krakow,Team
+,Oscar Muller,OSCAR.MULLER@EXAMPLE.COM,212-555-0193,  2024-12-30 ,Austin,Basic
+C0098,Leo Weber,  Leo.Weber@example.com ,0017205550128,18.04.2025,Brno,Team
+C0099,Elena Kowalski,elena.kowalski@example.com,+1 512 555 0159,2026/02/17,Krakow,Basic
+C0100,Nora Moreau,NORA.MOREAU@EXAMPLE.COM,415.555.0145,11/01/2025,Krakow,Team
+C0101,Jakub Silva,JAKUB.SILVA@EXAMPLE.COM,415-555-0117,05/01/2026,Prague,Basic
+C0102,David  Weber,  David.Weber@example.com ,415.555.0119,2025-02-16,Brno,Team
+C0103,Grace  Lopez,grace.lopez@example.com,(212) 555-0171,"Sep 27, 2024",Berlin,Team
+C0104,Petra Muller,petra.muller@example.com,+1 212 555 0120,  2025-04-24 ,Austin,Pro
+C0105,Frank Moreau,frank.moreau@example.com,,  2024-02-16 ,Denver,Basic
+C0106,Ben Muller,ben.muller@example.com,0014155550143,2026/03/08,Vienna,Pro
+C0107,Jakub Kowalski,jakub.kowalski@example.com,+1 415 555 0164,  2024-07-27 ,Brno,Pro
+C0108,Carla Horvat,carla.horvat@example.com,512-555-0169,"Feb 20, 2024",Prague ,Pro
+C0109,Rosa Weber,ROSA.WEBER@EXAMPLE.COM,(720) 555-0187,2024-08-05,Krakow,Basic
+,David Taylor,DAVID.TAYLOR@EXAMPLE.COM,312-555-0139,12/28/2025,Berlin,Pro
+C0111,Ben Dvorak,BEN.DVORAK@EXAMPLE.COM,5125550173,2025-04-02,Lyon,Team
+C0112,David Smith,  David.Smith@example.com ,(212) 555-0154,  2024-01-10 ,Brno,Basic
+C0112,David Smith,  DAVID.SMITH@EXAMPLE.COM ,(212) 555-0154,  2024-01-10 ,Brno,Basic
+C0113,Hugo Dvorak,HUGO.DVORAK@EXAMPLE.COM,(312) 555-0193,  2024-10-27 ,Krakow,Pro
+C0113,Hugo Dvorak,HUGO.DVORAK@EXAMPLE.COM,(312) 555-0193,  2024-10-27 ,Krakow,Pro
+C0114,Ben Novak,ben.novak@example.com,+1 512 555 0139,2026/01/16,Krakow,Pro
+C0115,Frank Garcia,FRANK.GARCIA@EXAMPLE.COM,0013125550180,"May 03, 2025",Krakow,Team
+C0116,Tomas Kowalski,tomas.kowalski@example.com,,2024/06/03,Lyon,Basic
+C0117,Hugo Horvat,hugo.horvat@example.com,415.555.0154,2025-08-23,Austin,Team
+C0118,Rosa Moreau,rosa.moreau@example.com,0017205550170,"Mar 27, 2026",Vienna,Basic
+C0119,Iris Weber,iris.weber@example.com,+1 212 555 0168,2026-03-01,Austin,Team
+C0120,Grace  Muller,grace.muller@example.com,+1 720 555 0172,next week,Prague,Pro
+C0121,Carla Garcia,CARLA.GARCIA@EXAMPLE.COM,(720) 555-0102,04.02.2024,Krakow,Basic
+C0122,Oscar Horvat,oscar.horvat@example.com,212.555.0143,"Jul 04, 2024",Prague ,Pro
+C0123,Carla Silva,carla.silva@example.com,+1 212 555 0132,01.08.2025,Lyon ,Basic
+C0124,Frank Novak,frank.novak@example.com,(720) 555-0103,2024-09-21,Krakow ,Basic
+C0124,Frank Novak,FRANK.NOVAK@EXAMPLE.COM,(720) 555-0103,2024-09-21,Krakow ,Basic
+C0125,Jakub Weber,jakub.weber@example.com,+1 415 555 0147,2025-02-03,Lyon ,Basic
+C0126,Oscar Jensen,oscar.jensen@example.com,312-555-0109,06/06/2026,Berlin,Basic
+C0127,Carla Dvorak,Carla.Dvorak at example.com,+1 212 555 0180,05/26/2024,Prague ,Pro
+C0128,Iris Brown,IRIS.BROWN@EXAMPLE.COM,415.555.0142,"Sep 23, 2024",Krakow,Basic
+C0129,Grace Lopez,  Grace.Lopez@example.com ,0013125550146,24.09.2024,Brno,Pro
+C0129,Grace Lopez,  GRACE.LOPEZ@EXAMPLE.COM ,0013125550146,24.09.2024,Brno,Pro
+C0130,Jakub Garcia,JAKUB.GARCIA@EXAMPLE.COM,415.555.0165,2025-03-29,Austin ,Pro
+C0131,Frank Garcia,frank.garcia@example.com,312-555-0125,2024-03-22,Krakow,Basic
+C0132,Grace Weber,GRACE.WEBER@EXAMPLE.COM,7205550152,31.02.2025,Krakow ,Pro
+C0133,Iris Muller,iris.muller@example.com,+1 312 555 0189,2025/08/11,Denver,Pro
+C0134,Hugo Silva,hugo.silva@example.com,(512) 555-0173,2024-10-25,Krakow,Team
+C0135,Carla Muller,CARLA.MULLER@EXAMPLE.COM,(720) 555-0103,  2024-04-08 ,Austin ,Team
+C0136,Oscar Smith,OSCAR.SMITH@EXAMPLE.COM,0014155550115,2025/05/20,Austin ,Basic
+C0137,Hugo Garcia,hugo.garcia@example.com,0012125550181,"Dec 11, 2025",Prague,Basic
+C0138,Karen Jensen,karen.jensen@example.com,415-555-0151,02/24/2024,Denver,Pro
+C0138,Karen Jensen,KAREN.JENSEN@EXAMPLE.COM,415-555-0151,02/24/2024,Denver,Pro
+C0139,Frank Smith,  Frank.Smith@example.com ,0013125550117,2025-02-10,Prague,Basic
+C0140,Tomas Rossi,tomas.rossi@example.com,,04/12/2024,Prague,Basic
+C0141,David Novak,david.novak@example.com,0014155550110,2025/08/27,Krakow ,Basic
+C0142,Iris Muller,iris.muller@example.com,5125550178,"Oct 27, 2025",Denver,Team
+C0143,Anna Muller,ANNA.MULLER@EXAMPLE.COM,(720) 555-0150,27.12.2024,Vienna,Pro
+C0144,Jakub Novak,JAKUB.NOVAK@EXAMPLE.COM,555-0156,2025-02-01,Brno,Team
+,Leo Garcia,leo.garcia@example.com,7205550112,"Feb 16, 2026",Berlin,Basic
+C0146,Petra Brown,petra.brown@example.com,415-555-0179,"Apr 23, 2024",Krakow,Pro
+C0147,Maria Moreau,maria.moreau@example.com,0015125550148,03.11.2024,Berlin,Pro
+C0148,Karen Silva,  Karen.Silva@example.com ,(512) 555-0101,02/18/2024,Krakow,Team
+C0149,Quinn Silva,quinn.silva@example.com,415-555-0105,11/23/2025,Prague,Team
+C0150,Rosa Taylor,rosa.taylor@example.com,0015125550151,2026/02/24,Denver,Team
+C0151,Carla Silva,CARLA.SILVA@EXAMPLE.COM,+1 415 555 0188,2026/04/20,Lyon,Team
+C0152,Grace Brown,grace.brown@example.com,4155550172,  2024-02-13 ,Prague,Team
+C0153,David  Weber,DAVID.WEBER@EXAMPLE.COM,+1 720 555 0172,  2026-06-11 ,Berlin,Pro
+C0154,Quinn  Smith,QUINN.SMITH@EXAMPLE.COM,512-555-0159,2025-03-16,Denver ,Basic
+C0155,David Silva,david.silva@example.com,0015125550179,2024-01-21,Lyon,Basic
+C0156,Ben Garcia,ben.garcia@example.com,0015125550138,09/09/2025,Krakow,Basic
+C0157,Hugo Brown,hugo.brown@example.com,312.555.0111,06/23/2024,Prague,Pro
+C0158,Maria Kowalski,MARIA.KOWALSKI@EXAMPLE.COM,415.555.0170,31.01.2025,Denver,Basic
+C0158,Maria Kowalski,MARIA.KOWALSKI@EXAMPLE.COM,415.555.0170,31.01.2025,Denver,Basic
+C0159,Hugo  Jensen,HUGO.JENSEN@EXAMPLE.COM,0013125550171,next week,Denver,Team
+C0160,Jakub Dvorak,  Jakub.Dvorak@example.com ,+1 312 555 0190,"Sep 02, 2025",Denver,Pro
+C0161,David Moreau,david.moreau@example.com,5125550103,05/28/2024,Brno,Basic
+C0162,Rosa Taylor,rosa.taylor@example.com,+1 212 555 0191,31.03.2024,Lyon,Pro
+C0163,Elena Taylor,ELENA.TAYLOR@EXAMPLE.COM,(415) 555-0152,  2025-11-05 ,Vienna,Pro
+C0164,David Rossi,david.rossi@example.com,(212) 555-0151,15.09.2025,Austin ,Team
+C0165,Frank Weber,frank.weber@example.com,4155550155,2024-12-23,Austin,Team
+C0165,Frank Weber,FRANK.WEBER@EXAMPLE.COM,4155550155,2024-12-23,Austin,Team
+C0166,David Novak,  David.Novak@example.com ,2125550153,2026/02/04,Austin,Pro
+C0167,Quinn Jensen,quinn.jensen@example.com,7205550106,  2025-03-14 ,Berlin,Basic
+C0168,Iris Garcia,iris.garcia@example.com,720.555.0133,01.03.2024,Lyon ,Team
+C0169,Petra Muller,PETRA.MULLER@EXAMPLE.COM,+1 312 555 0182,12/15/2025,Berlin,Basic
+C0170,Frank Moreau,frank.moreau@example.com,(512) 555-0126,12/07/2025,Krakow,Basic
+C0171,Jakub Dvorak,JAKUB.DVORAK@EXAMPLE.COM,+1 720 555 0146,2024/06/21,Prague,Pro
+C0172,Sam  Rossi,sam.rossi@example.com,+1 312 555 0169,01/09/2024,Austin,Team
+C0173,Elena  Jensen,elena.jensen@example.com,415.555.0147,2025/10/15,Berlin ,Team
+C0174,Frank Moreau,Frank.Moreau at example.com,+1 720 555 0147,2024-09-02,Lyon,Basic
+C0175,Jakub Weber,JAKUB.WEBER@EXAMPLE.COM,0013125550117,"Oct 14, 2025",Prague,Pro
+,,,,,,
+C0176,Tomas Silva,tomas.silva@example.com,(212) 555-0184,  2025-06-10 ,Denver ,Basic
+C0177,Frank Brown,frank.brown@example.com,415.555.0172,2025-04-25,Krakow,Team
+C0178,Tomas  Weber,tomas.weber@example.com,555-0177,"Aug 07, 2025",Krakow,Basic
+C0179,Anna Silva,anna.silva@example.com,2125550118,2025/07/22,Denver,Team
+C0180,Grace Lopez,  Grace.Lopez@example.com ,212-555-0124,11/17/2025,Vienna,Basic
+C0181,Sam  Weber,sam.weber@example.com,512-555-0117,2025/07/17,Brno,Team
+,Rosa Garcia,ROSA.GARCIA@EXAMPLE.COM,+1 212 555 0117,2026/03/05,Vienna ,Basic
+C0183,Jakub Smith,jakub.smith@example.com,720-555-0125,  2024-04-27 ,Berlin,Pro
+C0184,Iris Smith,iris.smith@example.com,0014155550192,next week,Denver,Basic
+C0185,Leo Muller,LEO.MULLER@EXAMPLE.COM,(512) 555-0114,2025-05-14,Austin ,Team
+C0186,Elena Weber,elena.weber@example.com,(415) 555-0156,01/26/2024,Krakow,Basic
+C0186,Elena Weber,ELENA.WEBER@EXAMPLE.COM,(415) 555-0156,01/26/2024,Krakow,Basic
+C0187,Tomas Brown,tomas.brown@example.com,512.555.0150,2026/06/12,Denver,Basic
+C0188,Grace Garcia,grace.garcia@example.com,+1 512 555 0149,2024-11-17,Krakow,Basic
+C0189,Elena Jensen,  Elena.Jensen@example.com ,+1 720 555 0133,2025/08/05,Berlin,Basic
+C0190,Grace Horvat,grace.horvat@example.com,415.555.0130,2025-11-28,Denver,Team
+C0191,Maria  Kowalski,Maria.Kowalski at example.com,+1 512 555 0164,2024-09-06,Berlin,Team
+C0192,Jakub Taylor,JAKUB.TAYLOR@EXAMPLE.COM,4155550132,11/05/2025,Vienna,Basic
+C0193,Oscar Kowalski,oscar.kowalski@example.com,+1 212 555 0162,06/28/2024,Prague,Team
+C0194,Maria Dvorak,maria.dvorak@example.com,212.555.0125,2026-01-21,Prague ,Team
+C0195,Rosa Moreau,rosa.moreau@example.com,+1 312 555 0141,  2026-06-07 ,Krakow,Team
+C0196,Ben Smith,Ben.Smith at example.com,+1 720 555 0151,2025-04-19,Denver ,Team
+C0197,Anna Garcia,anna.garcia@example.com,0014155550146,2024/12/18,Berlin,Team
+C0198,Petra  Horvat,petra.horvat@example.com,0017205550190,07/26/2025,Austin ,Basic
+C0199,Leo Garcia,  Leo.Garcia@example.com ,212-555-0103,2024-05-17,Vienna,Basic
+C0200,Frank Silva,frank.silva@example.com,555-0144,"May 30, 2026",Denver,Pro
+C0201,David Moreau,DAVID.MOREAU@EXAMPLE.COM,+1 512 555 0186,02.03.2024,Lyon,Pro
+C0202,Iris Novak,iris.novak@example.com,0013125550141,10/20/2025,Krakow,Team
+C0203,Iris  Horvat,Iris.Horvat at example.com,212.555.0162,06/14/2024,Krakow,Basic
+C0204,Leo Novak,leo.novak@example.com,555-0138,24.04.2024,Prague ,Pro
+C0205,Frank Dvorak,FRANK.DVORAK@EXAMPLE.COM,(512) 555-0142,22.08.2025,Prague ,Team
+C0206,Anna Novak,Anna.Novak at example.com,212.555.0162,"Jun 22, 2025",Vienna,Basic
+C0207,Quinn Kowalski,quinn.kowalski@example.com,555-0128,21.12.2025,Austin ,Basic
+C0207,Quinn Kowalski,QUINN.KOWALSKI@EXAMPLE.COM,555-0128,21.12.2025,Austin ,Basic
+C0208,Leo  Rossi,leo.rossi@example.com,720-555-0136,  2024-12-04 ,Austin,Pro
+C0209,Maria Taylor,MARIA.TAYLOR@EXAMPLE.COM,212-555-0130,05/28/2025,Lyon,Basic
+C0210,Ben Taylor,ben.taylor@example.com,555-0170,2025-08-14,Krakow,Team
+C0211,Maria Kowalski,maria.kowalski@example.com,7205550184,  2024-03-14 ,Vienna,Pro
+C0212,Leo Lopez,leo.lopez@example.com,212-555-0196,2025/01/07,Berlin,Basic
+C0213,Frank Moreau,frank.moreau@example.com,0012125550141,2025-01-05,Lyon ,Pro
+,Quinn Lopez,quinn.lopez@example.com,555-0157,"Oct 11, 2025",Berlin,Basic
+C0215,Hugo Weber,hugo.weber@example.com,212.555.0171,2024/01/01,Berlin,Team
+C0216,Oscar Smith,oscar.smith@example.com,+1 312 555 0154,31.02.2025,Krakow,Basic
+C0217,Tomas Horvat,  Tomas.Horvat@example.com ,312.555.0179,  2026-05-22 ,Brno,Pro
+C0218,Maria Lopez,maria.lopez@example.com,212-555-0113,"Jul 31, 2025",Lyon,Pro
+C0219,Elena Lopez,ELENA.LOPEZ@EXAMPLE.COM,312-555-0151,  2024-02-11 ,Denver,Pro
+C0220,Anna Smith,anna.smith@example.com,555-0107,"Dec 09, 2024",Lyon,Basic
+C0221,Elena Kowalski,elena.kowalski@example.com,,07/05/2025,Brno,Pro
+C0222,Nora  Moreau,Nora.Moreau at example.com,+1 512 555 0169,08.11.2024,Vienna,Pro
+C0223,Elena Kowalski,elena.kowalski@example.com,(720) 555-0184,01/16/2026,Brno,Team
+C0223,Elena Kowalski,ELENA.KOWALSKI@EXAMPLE.COM,(720) 555-0184,01/16/2026,Brno,Team
+C0224,Oscar Rossi,  Oscar.Rossi@example.com ,0017205550158,"Jan 15, 2026",Vienna ,Pro
+C0225,Carla Silva,CARLA.SILVA@EXAMPLE.COM,720.555.0194,25.05.2025,Austin,Team
+C0226,Grace  Lopez,GRACE.LOPEZ@EXAMPLE.COM,212.555.0153,2025-11-05,Lyon ,Basic
+C0227,Oscar Rossi,oscar.rossi@example.com,720.555.0192,11/12/2024,Vienna ,Team
+C0228,Maria Garcia,  Maria.Garcia@example.com ,0012125550125,  2024-06-01 ,Denver,Basic
+C0229,Grace Moreau,grace.moreau@example.com,0014155550102,05.04.2024,Austin,Team
+C0230,Hugo Weber,HUGO.WEBER@EXAMPLE.COM,212.555.0144,  2024-06-04 ,Berlin,Pro
+C0231,David Horvat,david.horvat@example.com,5125550112,17.03.2026,Krakow ,Basic
+C0232,Elena Brown,elena.brown@example.com,312.555.0146,2025-11-09,Krakow,Pro
+C0233,Petra Rossi,PETRA.ROSSI@EXAMPLE.COM,312-555-0172,2024/02/13,Vienna,Team
+C0234,Rosa Lopez,ROSA.LOPEZ@EXAMPLE.COM,2125550162,  2025-12-06 ,Berlin ,Pro
+C0235,David Rossi,DAVID.ROSSI@EXAMPLE.COM,312.555.0129,2025-09-01,Prague,Basic
+C0236,Tomas Horvat,tomas.horvat@example.com,512.555.0175,01/12/2024,Lyon,Basic
+C0237,Frank Garcia,frank.garcia@example.com,+1 312 555 0187,2025-12-26,Krakow ,Team
+C0238,Carla Muller,CARLA.MULLER@EXAMPLE.COM,5125550111,2024/12/23,Krakow,Team
+C0239,Jakub  Taylor,jakub.taylor@example.com,0017205550121,2025-01-30,Austin,Team
+C0240,Iris Horvat,  Iris.Horvat@example.com ,512.555.0171,"Jun 17, 2026",Prague,Pro
+,Maria Brown,  Maria.Brown@example.com ,415-555-0184,"May 06, 2026",Prague,Team
+C0242,Nora Brown,nora.brown@example.com,+1 312 555 0110,31.02.2025,Denver ,Pro
+C0243,Rosa Horvat,  Rosa.Horvat@example.com ,0015125550123,10/04/2024,Denver ,Pro
+C0244,Maria Rossi,maria.rossi@example.com,720.555.0124,2025/02/04,Berlin ,Basic
+C0245,Leo  Moreau,leo.moreau@example.com,0017205550185,2024-05-18,Brno,Pro
+C0246,Maria Lopez,MARIA.LOPEZ@EXAMPLE.COM,5125550146,next week,Lyon,Team
+C0247,Ben Kowalski,BEN.KOWALSKI@EXAMPLE.COM,415.555.0118,2025/08/24,Lyon ,Team
+C0248,Jakub Horvat,jakub.horvat@example.com,555-0186,12/27/2025,Austin,Team
+C0248,Jakub Horvat,JAKUB.HORVAT@EXAMPLE.COM,555-0186,12/27/2025,Austin,Team
+C0249,Elena Muller,elena.muller@example.com,555-0121,2024/02/24,Lyon,Pro
+C0250,Petra Muller,petra.muller@example.com,0014155550146,"Nov 23, 2024",Krakow,Basic
+C0251,Nora Moreau,nora.moreau@example.com,,2024-10-12,Lyon,Pro
+C0252,Jakub Silva,  Jakub.Silva@example.com ,2125550168,2024/12/28,Austin,Basic
+C0253,Nora Silva,NORA.SILVA@EXAMPLE.COM,3125550192,2024-04-30,Denver,Pro
+C0254,Elena Lopez,elena.lopez@example.com,415.555.0117,  2024-12-12 ,Lyon ,Basic
+C0255,Maria Muller,  Maria.Muller@example.com ,312.555.0119,2025-11-18,Austin,Team
+C0256,Jakub Garcia,jakub.garcia@example.com,(415) 555-0191,2026/03/01,Austin,Basic
+C0257,Carla  Kowalski,carla.kowalski@example.com,(415) 555-0127,  2025-04-13 ,Krakow,Basic
+C0258,Ben Novak,ben.novak@example.com,+1 415 555 0180,2024/12/04,Vienna,Basic
+C0259,Anna Muller,ANNA.MULLER@EXAMPLE.COM,(512) 555-0147,10/07/2025,Brno,Team
+C0260,Ben Horvat,ben.horvat@example.com,4155550109,"May 16, 2024",Krakow ,Team
+C0261,Grace Smith,grace.smith@example.com,555-0190,28.09.2024,Austin,Basic
+C0262,Carla Kowalski,CARLA.KOWALSKI@EXAMPLE.COM,720-555-0133,  2024-12-29 ,Denver,Pro
+C0263,Nora  Taylor,nora.taylor@example.com,415.555.0113,2025-01-07,Brno,Pro
+C0264,David Lopez,david.lopez@example.com,(415) 555-0184,  2024-07-16 ,Lyon,Team
+C0265,Elena  Garcia,  Elena.Garcia@example.com ,(512) 555-0103,next week,Prague,Team
+C0266,Tomas Lopez,tomas.lopez@example.com,312.555.0100,07/28/2024,Brno ,Basic
+C0267,Oscar  Horvat,oscar.horvat@example.com,0015125550121,  2025-10-29 ,Vienna,Pro
+C0268,Petra Weber,petra.weber@example.com,0013125550100,next week,Prague,Basic
+C0268,Petra Weber,PETRA.WEBER@EXAMPLE.COM,0013125550100,next week,Prague,Basic
+C0269,Hugo Taylor,hugo.taylor@example.com,,  2025-07-23 ,Lyon,Basic
+C0270,David  Garcia,david.garcia@example.com,415-555-0113,"Mar 16, 2026",Prague ,Basic
+,Tomas Weber,tomas.weber@example.com,212-555-0184,09/21/2025,Prague,Basic
+C0272,Oscar  Muller,oscar.muller@example.com,512-555-0114,2024/03/29,Brno ,Basic
+C0273,Leo Rossi,leo.rossi@example.com,+1 720 555 0173,26.02.2026,Brno ,Team
+C0274,Oscar Brown,oscar.brown@example.com,(212) 555-0102,  2026-01-03 ,Berlin,Pro
+C0274,Oscar Brown,OSCAR.BROWN@EXAMPLE.COM,(212) 555-0102,  2026-01-03 ,Berlin,Pro
+C0275,Jakub Dvorak,JAKUB.DVORAK@EXAMPLE.COM,+1 415 555 0103,2025-01-26,Berlin,Team
+C0276,Karen Rossi,KAREN.ROSSI@EXAMPLE.COM,415-555-0129,2024-12-31,Vienna,Basic
+C0277,Karen Brown,karen.brown@example.com,512.555.0120,2025-06-27,Vienna,Pro
+C0278,Carla Moreau,  Carla.Moreau@example.com ,+1 212 555 0191,  2025-03-17 ,Berlin,Team
+C0279,Maria Muller,maria.muller@example.com,+1 312 555 0182,  2025-09-25 ,Berlin,Team
+C0280,Carla  Lopez,carla.lopez@example.com,0012125550192,2025/10/25,Austin,Pro
+C0281,Nora Jensen,nora.jensen@example.com,+1 212 555 0158,2024-11-26,Vienna ,Basic
+C0282,Anna Silva,anna.silva@example.com,555-0139,16.02.2024,Prague,Team
+C0283,Jakub Novak,jakub.novak@example.com,415-555-0146,09.01.2026,Austin,Basic
+C0284,Frank Rossi,frank.rossi@example.com,,26.10.2025,Lyon,Basic
+C0285,Ben Smith,ben.smith@example.com,0012125550160,2025-05-14,Krakow ,Basic
+C0286,Nora  Dvorak,NORA.DVORAK@EXAMPLE.COM,512.555.0160,2024/12/12,Vienna,Basic
+C0287,Maria  Smith,maria.smith@example.com,720-555-0121,06/04/2026,Brno,Pro
+C0288,Carla Horvat,Carla.Horvat at example.com,(415) 555-0108,"Dec 21, 2025",Berlin,Team
+C0289,Petra Moreau,petra.moreau@example.com,512-555-0185,  2024-05-22 ,Lyon,Pro
+C0290,Frank Jensen,frank.jensen@example.com,212.555.0157,2026-05-20,Berlin,Pro
+C0291,Maria Novak,MARIA.NOVAK@EXAMPLE.COM,0013125550108,2025/01/17,Krakow,Basic
+C0292,Grace Rossi,grace.rossi@example.com,0014155550104,06/30/2024,Prague,Basic
+C0293,Iris Weber,iris.weber@example.com,312.555.0133,2025-07-29,Lyon ,Basic
+C0294,Ben Garcia,BEN.GARCIA@EXAMPLE.COM,+1 512 555 0152,  2025-08-06 ,Berlin,Pro
+C0295,Nora Taylor,nora.taylor@example.com,212.555.0136,10.06.2026,Lyon,Team
+C0296,Hugo Dvorak,hugo.dvorak@example.com,720.555.0171,2025-03-22,Austin,Basic
+C0297,Nora Kowalski,  Nora.Kowalski@example.com ,2125550179,11/19/2025,Prague,Pro
+C0298,Frank Dvorak,frank.dvorak@example.com,512.555.0111,"Jul 09, 2025",Berlin,Basic
+C0299,Petra Horvat,petra.horvat@example.com,(415) 555-0114,06.06.2025,Lyon,Pro
+C0300,Leo Kowalski,leo.kowalski@example.com,(512) 555-0188,  2025-11-23 ,Lyon,Team
+C0301,Hugo Jensen,hugo.jensen@example.com,+1 415 555 0183,2024-06-16,Prague ,Basic
+C0302,Anna Smith,anna.smith@example.com,312.555.0100,23.08.2024,Vienna ,Basic
+C0303,Petra  Kowalski,petra.kowalski@example.com,+1 512 555 0133,2024-02-26,Austin ,Team
+C0304,Karen Kowalski,KAREN.KOWALSKI@EXAMPLE.COM,720.555.0106,  2026-05-09 ,Austin,Basic
+C0305,Carla Weber,carla.weber@example.com,512-555-0129,2024-04-05,Berlin ,Team
+C0306,Iris Lopez,iris.lopez@example.com,555-0129,06/09/2025,Krakow,Basic
+C0307,Iris Garcia,  Iris.Garcia@example.com ,+1 415 555 0150,  2025-06-19 ,Denver ,Basic
+C0308,Hugo  Dvorak,Hugo.Dvorak at example.com,7205550146,06/25/2025,Brno,Team
+C0309,Quinn Muller,quinn.muller@example.com,555-0198,2025-04-02,Prague ,Pro
+C0310,Rosa  Garcia,rosa.garcia@example.com,,2025-11-04,Denver,Basic
+C0311,Ben Novak,ben.novak@example.com,(212) 555-0189,19.11.2024,Lyon ,Basic
+C0312,Leo Smith,leo.smith@example.com,2125550133,"Jan 07, 2026",Berlin,Pro
+C0313,Elena Jensen,elena.jensen@example.com,720.555.0143,01/29/2024,Berlin,Team
+C0314,Karen Moreau,karen.moreau@example.com,+1 312 555 0173,2024-01-11,Prague,Pro
+C0315,Leo Rossi,leo.rossi@example.com,(212) 555-0129,"Nov 23, 2025",Vienna,Team
+C0316,Elena Silva,elena.silva@example.com,512.555.0139,2024/09/02,Prague,Basic
+C0317,Rosa Moreau,rosa.moreau@example.com,0015125550143,"Mar 12, 2026",Vienna,Pro
+C0318,Anna Taylor,  Anna.Taylor@example.com ,555-0163,"May 30, 2026",Austin,Pro
+,Petra Kowalski,petra.kowalski@example.com,(415) 555-0173,2025/09/06,Brno,Pro
+C0320,Grace Kowalski,grace.kowalski@example.com,212-555-0183,"Feb 05, 2024",Lyon ,Basic
+C0321,Quinn Horvat,QUINN.HORVAT@EXAMPLE.COM,720.555.0107,  2025-01-10 ,Lyon,Basic
+C0322,Karen Lopez,KAREN.LOPEZ@EXAMPLE.COM,7205550101,"Sep 11, 2025",Berlin ,Team
+C0323,Leo Novak,  Leo.Novak@example.com ,,2025-05-29,Vienna,Basic
+C0324,Anna  Brown,anna.brown@example.com,312.555.0153,  2025-06-09 ,Brno,Pro
+C0325,Rosa Rossi,rosa.rossi@example.com,312-555-0125,  2026-01-08 ,Krakow,Team
+C0326,Quinn Novak,QUINN.NOVAK@EXAMPLE.COM,2125550171,"Nov 23, 2024",Vienna,Pro
+C0327,Hugo Garcia,hugo.garcia@example.com,555-0120,28.03.2024,Denver ,Pro
+C0328,Sam Dvorak,  Sam.Dvorak@example.com ,512-555-0175,2024/05/28,Brno,Pro
+C0329,Nora Kowalski,nora.kowalski@example.com,312-555-0159,2025-07-15,Krakow,Team
+C0330,Tomas Rossi,tomas.rossi@example.com,212.555.0187,10/03/2025,Lyon,Team
+C0331,Frank Lopez,frank.lopez@example.com,312-555-0103,2024-11-26,Denver,Basic
+C0332,Petra Smith,petra.smith@example.com,+1 415 555 0102,"Mar 30, 2026",Prague,Pro
+C0333,Maria  Novak,  Maria.Novak@example.com ,+1 312 555 0118,21.08.2024,Austin ,Team
+C0334,Rosa Taylor,rosa.taylor@example.com,3125550105,"Jan 17, 2026",Berlin,Pro
+C0334,Rosa Taylor,ROSA.TAYLOR@EXAMPLE.COM,3125550105,"Jan 17, 2026",Berlin,Pro
+C0335,Anna Kowalski,anna.kowalski@example.com,312.555.0113,2024/07/21,Vienna,Pro
+C0336,Petra Novak,petra.novak@example.com,+1 312 555 0119,  2025-10-03 ,Krakow,Team
+C0337,Sam Novak,sam.novak@example.com,0014155550184,07.06.2025,Berlin,Team
+,,,,,,
+C0338,Quinn Novak,quinn.novak@example.com,0013125550172,  2026-01-15 ,Krakow,Team
+C0339,Grace Horvat,grace.horvat@example.com,,  2025-08-16 ,Austin,Pro
+C0340,Iris Silva,IRIS.SILVA@EXAMPLE.COM,0012125550119,2026-02-18,Austin,Pro
+C0340,Iris Silva,IRIS.SILVA@EXAMPLE.COM,0012125550119,2026-02-18,Austin,Pro
+C0341,Elena Smith,elena.smith@example.com,5125550156,  2024-03-24 ,Denver ,Pro
+C0342,Iris Rossi,  Iris.Rossi@example.com ,0017205550167,2026/02/26,Austin,Pro
+C0343,David Novak,DAVID.NOVAK@EXAMPLE.COM,212-555-0177,  2026-01-24 ,Denver,Pro
+C0344,Oscar  Dvorak,OSCAR.DVORAK@EXAMPLE.COM,0012125550127,"Sep 07, 2025",Brno,Pro
+C0345,David Moreau,david.moreau@example.com,0013125550128,31.02.2025,Prague,Team
+C0346,Maria Lopez,maria.lopez@example.com,+1 512 555 0160,2025-11-29,Vienna,Pro
+C0347,Frank Lopez,frank.lopez@example.com,0013125550117,"Apr 25, 2025",Denver ,Pro
+C0348,David Kowalski,DAVID.KOWALSKI@EXAMPLE.COM,+1 512 555 0174,"Dec 04, 2024",Berlin,Basic
+C0349,Oscar Moreau,oscar.moreau@example.com,555-0161,  2026-06-02 ,Denver ,Basic
+C0350,Sam Smith,  Sam.Smith@example.com ,555-0164,06.05.2026,Austin,Basic
+,,,,,,
+C0351,Ben  Brown,  Ben.Brown@example.com ,0012125550165,  2024-12-24 ,Berlin ,Basic
+C0352,Grace  Taylor,grace.taylor@example.com,0014155550186,  2025-02-18 ,Lyon ,Team
+C0353,Anna Novak,anna.novak@example.com,+1 512 555 0120,01/13/2026,Denver,Pro
+C0354,Elena Smith,elena.smith@example.com,720-555-0172,2024/04/08,Krakow,Basic
+C0355,Anna Muller,anna.muller@example.com,0015125550175,03/15/2025,Prague,Team
+C0355,Anna Muller,ANNA.MULLER@EXAMPLE.COM,0015125550175,03/15/2025,Prague,Team
+C0356,Hugo  Taylor,hugo.taylor@example.com,+1 415 555 0110,2026-02-11,Brno,Pro
+C0357,Elena Garcia,Elena.Garcia at example.com,720.555.0154,2025-08-24,Berlin,Basic
+C0357,Elena Garcia,ELENA.GARCIA AT EXAMPLE.COM,720.555.0154,2025-08-24,Berlin,Basic
+,Quinn Jensen,QUINN.JENSEN@EXAMPLE.COM,312.555.0185,03/19/2025,Brno,Pro
+C0359,Grace  Brown,grace.brown@example.com,+1 415 555 0131,  2025-11-08 ,Prague,Team
+C0360,Ben Lopez,  Ben.Lopez@example.com ,5125550164,2024-07-17,Krakow,Pro
+C0361,Petra  Garcia,petra.garcia@example.com,212.555.0189,  2025-08-15 ,Brno ,Pro
+C0362,Iris Kowalski,iris.kowalski@example.com,0014155550120,24.03.2025,Brno,Pro
+C0363,Iris  Jensen,iris.jensen@example.com,312.555.0100,2024-02-13,Denver,Team
+C0364,Sam Lopez,sam.lopez@example.com,+1 415 555 0116,2024/12/29,Vienna,Team
+C0365,Tomas  Garcia,  Tomas.Garcia@example.com ,+1 512 555 0199,"Jun 13, 2025",Lyon,Pro
+C0366,Petra Kowalski,  Petra.Kowalski@example.com ,+1 415 555 0190,04/10/2025,Denver,Basic
+C0367,Iris Moreau,IRIS.MOREAU@EXAMPLE.COM,0014155550146,"Feb 03, 2024",Austin,Basic
+C0368,Frank  Dvorak,FRANK.DVORAK@EXAMPLE.COM,212.555.0191,2024-12-13,Austin,Pro
+C0369,Leo  Rossi,leo.rossi@example.com,(212) 555-0122,"Mar 13, 2025",Denver,Basic
+C0370,Tomas Rossi,tomas.rossi@example.com,+1 212 555 0194,31.02.2025,Prague,Basic
+C0371,Hugo  Rossi,hugo.rossi@example.com,0013125550129,2025-08-23,Prague,Team
+C0372,David Muller,David.Muller at example.com,415.555.0101,04/28/2024,Vienna,Pro
+C0373,Ben Lopez,ben.lopez@example.com,(512) 555-0159,  2024-02-25 ,Vienna,Basic
+C0374,Maria Garcia,MARIA.GARCIA@EXAMPLE.COM,+1 512 555 0111,31.02.2025,Brno,Basic
+C0375,Jakub Taylor,jakub.taylor@example.com,312-555-0112,"Jun 24, 2025",Austin,Basic
+C0376,Tomas Weber,  Tomas.Weber@example.com ,+1 720 555 0191,2026-05-13,Denver ,Team
+C0377,Leo Muller,LEO.MULLER@EXAMPLE.COM,+1 720 555 0157,02/19/2025,Krakow ,Pro
+C0377,Leo Muller,LEO.MULLER@EXAMPLE.COM,+1 720 555 0157,02/19/2025,Krakow ,Pro
+C0378,Karen Moreau,KAREN.MOREAU@EXAMPLE.COM,312.555.0169,  2024-03-10 ,Berlin,Team
+C0379,Quinn Silva,quinn.silva@example.com,512-555-0193,23.04.2024,Austin,Team
+C0380,Hugo Moreau,hugo.moreau@example.com,0014155550163,17.07.2025,Brno ,Team
+C0381,Elena Rossi,ELENA.ROSSI@EXAMPLE.COM,(720) 555-0102,25.09.2025,Krakow,Basic
+C0382,Anna Garcia,ANNA.GARCIA@EXAMPLE.COM,(720) 555-0192,21.02.2024,Austin,Team
+C0383,Oscar Weber,  Oscar.Weber@example.com ,+1 212 555 0193,08/21/2024,Krakow,Basic
+C0384,Oscar Silva,oscar.silva@example.com,720.555.0131,12/12/2025,Vienna ,Pro
+C0385,Quinn  Dvorak,quinn.dvorak@example.com,415.555.0151,06/12/2024,Lyon ,Basic
+C0386,Grace Horvat,grace.horvat@example.com,+1 720 555 0112,10/09/2024,Krakow,Team
+C0387,Anna Silva,  Anna.Silva@example.com ,720-555-0170,  2025-07-30 ,Berlin,Basic
+C0388,Nora Silva,nora.silva@example.com,0012125550119,2024/06/25,Denver,Pro
+C0389,Sam Silva,sam.silva@example.com,512-555-0182,2025-05-12,Vienna,Team
+C0390,Jakub Moreau,  Jakub.Moreau@example.com ,(415) 555-0147,2025-05-06,Austin ,Team
+C0391,Sam Silva,SAM.SILVA@EXAMPLE.COM,(415) 555-0132,"Sep 26, 2024",Prague,Pro
+C0392,Nora Smith,nora.smith@example.com,2125550157,24.01.2024,Prague,Pro
+C0393,Jakub  Brown,jakub.brown@example.com,0015125550186,2025-08-21,Austin ,Pro
+C0394,Ben Lopez,ben.lopez@example.com,(720) 555-0165,  2024-03-22 ,Lyon,Basic
+C0395,Grace Dvorak,grace.dvorak@example.com,555-0118,  2024-01-03 ,Lyon,Pro
+,Ben  Moreau,BEN.MOREAU@EXAMPLE.COM,720.555.0188,2024-04-28,Brno,Pro
+C0397,Frank Weber,frank.weber@example.com,212-555-0115,04/20/2025,Krakow,Pro
+C0398,Petra Moreau,petra.moreau@example.com,(720) 555-0135,2025-08-23,Austin,Basic
+C0399,Leo Garcia,LEO.GARCIA@EXAMPLE.COM,(415) 555-0130,2025-07-28,Prague,Team
+C0400,Carla Smith,CARLA.SMITH@EXAMPLE.COM,+1 212 555 0148,31.02.2025,Berlin,Team
+C0401,Quinn  Smith,quinn.smith@example.com,415.555.0175,2024-11-16,Brno,Team
+C0402,David  Brown,david.brown@example.com,0014155550186,23.10.2024,Prague,Team
+C0403,Quinn  Smith,quinn.smith@example.com,+1 415 555 0114,2025-06-04,Denver,Team
+C0404,Nora Dvorak,nora.dvorak@example.com,312-555-0117,25.10.2025,Prague ,Team
+C0405,Grace Brown,grace.brown@example.com,0012125550123,  2025-10-19 ,Lyon ,Basic
+C0406,Grace Kowalski,grace.kowalski@example.com,4155550151,"Jun 11, 2025",Berlin,Pro
+C0407,Hugo Moreau,hugo.moreau@example.com,0014155550134,05/01/2025,Denver,Basic
+C0408,Elena Taylor,  Elena.Taylor@example.com ,212.555.0167,  2024-05-26 ,Denver,Pro
+C0409,Anna Brown,anna.brown@example.com,(512) 555-0100,"Aug 21, 2024",Prague,Pro
+C0410,Hugo Dvorak,hugo.dvorak@example.com,212-555-0115,  2024-01-22 ,Krakow,Pro
+C0411,Maria Garcia,maria.garcia@example.com,0014155550176,2024-07-17,Prague,Pro
+C0411,Maria Garcia,MARIA.GARCIA@EXAMPLE.COM,0014155550176,2024-07-17,Prague,Pro
+C0412,Iris Moreau,iris.moreau@example.com,0015125550159,2026/02/16,Brno,Basic
+C0413,Elena  Muller,elena.muller@example.com,0014155550193,2025-05-08,Prague ,Basic
+C0413,Elena  Muller,ELENA.MULLER@EXAMPLE.COM,0014155550193,2025-05-08,Prague ,Basic
+C0414,Nora Lopez,nora.lopez@example.com,0012125550175,08/31/2024,Krakow,Basic
+C0415,Tomas Horvat,  Tomas.Horvat@example.com ,(212) 555-0103,2026-05-12,Krakow,Pro
+C0416,Anna Brown,anna.brown@example.com,512-555-0169,2025-01-19,Lyon,Pro
+C0417,David Jensen,david.jensen@example.com,415-555-0105,"Jun 18, 2026",Austin,Basic
+C0418,Sam Dvorak,  Sam.Dvorak@example.com ,+1 720 555 0106,2024/11/10,Lyon,Team
+C0419,Rosa Moreau,rosa.moreau@example.com,5125550138,  2024-02-16 ,Prague ,Team
+C0419,Rosa Moreau,ROSA.MOREAU@EXAMPLE.COM,5125550138,  2024-02-16 ,Prague ,Team
+C0420,Anna Taylor,anna.taylor@example.com,5125550128,2025/06/25,Berlin,Basic
+C0421,Leo Garcia,LEO.GARCIA@EXAMPLE.COM,(415) 555-0147,06/24/2025,Prague,Basic
+C0421,Leo Garcia,LEO.GARCIA@EXAMPLE.COM,(415) 555-0147,06/24/2025,Prague,Basic
+C0422,Carla Kowalski,CARLA.KOWALSKI@EXAMPLE.COM,555-0169,2026-06-18,Krakow,Basic
+C0423,Elena Horvat,elena.horvat@example.com,415.555.0112,"Mar 02, 2026",Denver,Basic
+,Elena Silva,elena.silva@example.com,720.555.0169,2024/05/18,Berlin,Team
+C0425,Jakub  Horvat,Jakub.Horvat at example.com,512.555.0169,2025-03-29,Lyon,Basic
+,,,,,,
+C0426,Maria  Smith,maria.smith@example.com,0015125550180,2024-04-29,Vienna,Pro
+C0427,Elena Taylor,  Elena.Taylor@example.com ,0012125550127,"Nov 29, 2024",Krakow,Team
+C0428,Sam Dvorak,  Sam.Dvorak@example.com ,212-555-0129,2025-12-18,Vienna,Pro
+C0429,Karen Brown,karen.brown@example.com,555-0150,2025/02/24,Denver,Pro
+C0430,Sam Dvorak,sam.dvorak@example.com,415-555-0181,2026-06-12,Prague,Team
+C0431,Grace Brown,grace.brown@example.com,3125550189,  2024-04-01 ,Vienna,Basic
+C0432,Oscar Moreau,oscar.moreau@example.com,(415) 555-0166,  2025-08-20 ,Lyon,Team
+C0433,Sam Lopez,sam.lopez@example.com,4155550163,2025/05/26,Prague,Basic
+C0434,Hugo Dvorak,hugo.dvorak@example.com,(720) 555-0109,2026-01-19,Vienna,Pro
+C0435,Leo  Smith,Leo.Smith at example.com,(212) 555-0105,05/13/2025,Lyon,Pro
+C0436,Oscar Garcia,oscar.garcia@example.com,415.555.0197,  2025-09-02 ,Lyon,Basic
+C0437,Rosa Muller,ROSA.MULLER@EXAMPLE.COM,+1 312 555 0179,2024-01-14,Lyon,Team
+C0438,Hugo Rossi,hugo.rossi@example.com,+1 512 555 0173,  2026-04-15 ,Lyon ,Basic
+C0439,Maria Moreau,Maria.Moreau at example.com,720.555.0176,2025-05-16,Vienna,Basic
+C0440,Elena Moreau,elena.moreau@example.com,312-555-0136,2025/05/18,Vienna,Pro
+C0441,Grace  Weber,grace.weber@example.com,415-555-0196,2024-05-31,Lyon,Pro
+,Rosa Kowalski,rosa.kowalski@example.com,+1 212 555 0128,08/22/2024,Lyon,Pro
+C0443,Anna Lopez,  Anna.Lopez@example.com ,+1 212 555 0181,2024-12-16,Lyon,Team
+C0444,Quinn Horvat,QUINN.HORVAT@EXAMPLE.COM,720-555-0133,"Jul 04, 2024",Berlin,Pro
+C0445,Hugo Novak,hugo.novak@example.com,0015125550144,  2025-01-17 ,Vienna,Pro
+C0446,Iris  Kowalski,IRIS.KOWALSKI@EXAMPLE.COM,(312) 555-0180,2025/06/13,Lyon ,Basic
+C0447,Petra Kowalski,  Petra.Kowalski@example.com ,0012125550162,24.07.2024,Brno,Pro
+C0448,David Kowalski,DAVID.KOWALSKI@EXAMPLE.COM,555-0146,next week,Lyon,Pro
+C0449,Rosa  Silva,rosa.silva@example.com,415-555-0186,11.03.2025,Brno,Basic
+C0450,Elena Novak,elena.novak@example.com,(415) 555-0135,2025/02/24,Prague,Pro
+C0451,Elena Novak,elena.novak@example.com,0013125550162,2025-01-05,Prague,Basic
+C0452,Ben Brown,ben.brown@example.com,312-555-0199,2025-02-17,Lyon,Basic
+C0453,Sam Smith,sam.smith@example.com,720.555.0127,2024-01-17,Denver,Basic
+C0453,Sam Smith,SAM.SMITH@EXAMPLE.COM,720.555.0127,2024-01-17,Denver,Basic
+C0454,Petra Silva,petra.silva@example.com,5125550138,2024/05/26,Krakow,Basic
+C0455,Karen  Taylor,  Karen.Taylor@example.com ,415-555-0182,2026/03/09,Berlin,Team
+,,,,,,
+C0456,Sam Horvat,SAM.HORVAT@EXAMPLE.COM,0015125550108,2024/09/02,Lyon ,Pro
+C0457,Anna Kowalski,anna.kowalski@example.com,+1 720 555 0115,07.02.2024,Berlin,Team
+C0458,Ben Taylor,ben.taylor@example.com,0014155550189,"Mar 30, 2025",Berlin,Pro
+,Oscar  Taylor,OSCAR.TAYLOR@EXAMPLE.COM,0012125550192,2025/11/12,Berlin ,Team
+C0460,David Weber,david.weber@example.com,0014155550111,2025-09-18,Denver,Team
+C0461,David Rossi,david.rossi@example.com,0014155550104,05/07/2024,Berlin,Team
+C0462,Iris Taylor,  Iris.Taylor@example.com ,+1 312 555 0137,"Dec 19, 2025",Berlin,Pro
+C0463,Maria Silva,maria.silva@example.com,+1 512 555 0119,"Feb 19, 2024",Austin ,Team
+C0464,Elena Garcia,elena.garcia@example.com,512-555-0165,03.09.2025,Denver,Team
+C0465,Frank Smith,FRANK.SMITH@EXAMPLE.COM,0014155550170,2024/11/30,Austin,Pro
+C0466,Sam Moreau,sam.moreau@example.com,,08/02/2025,Brno,Team
+C0467,Rosa Horvat,rosa.horvat@example.com,(415) 555-0132,  2025-02-11 ,Austin,Team
+C0468,Karen Rossi,karen.rossi@example.com,212-555-0110,01/26/2025,Lyon,Pro
+C0469,Quinn Lopez,quinn.lopez@example.com,(720) 555-0122,09/04/2024,Krakow ,Team
+C0470,Leo  Silva,leo.silva@example.com,(212) 555-0177,11.03.2026,Austin,Team
+C0471,Nora Moreau,nora.moreau@example.com,312.555.0157,"Apr 01, 2025",Austin,Team
+C0472,Carla Lopez,carla.lopez@example.com,212-555-0197,2025-07-21,Austin,Basic
+C0473,Rosa  Smith,rosa.smith@example.com,(415) 555-0140,  2024-05-28 ,Brno,Pro
+C0474,Ben Kowalski,ben.kowalski@example.com,+1 415 555 0107,  2025-12-29 ,Denver,Team
+C0475,Carla Horvat,carla.horvat@example.com,(512) 555-0105,2026/04/09,Berlin,Team
+C0476,Elena Moreau,elena.moreau@example.com,(212) 555-0130,2024-08-18,Berlin,Basic
+C0477,Sam Brown,sam.brown@example.com,,2026-05-06,Krakow,Basic
+C0478,Oscar Garcia,oscar.garcia@example.com,2125550191,next week,Krakow,Pro
+C0479,Ben  Taylor,BEN.TAYLOR@EXAMPLE.COM,+1 415 555 0129,"Nov 01, 2025",Krakow,Team
+C0480,Rosa Kowalski,rosa.kowalski@example.com,(312) 555-0155,2025-02-27,Berlin,Team
+C0481,Hugo  Kowalski,  Hugo.Kowalski@example.com ,+1 720 555 0153,2025-11-20,Austin,Team
+C0482,Oscar Silva,OSCAR.SILVA@EXAMPLE.COM,720.555.0141,next week,Krakow,Basic
+C0483,David  Kowalski,david.kowalski@example.com,(720) 555-0196,05/14/2026,Denver,Basic
+C0484,Carla Dvorak,carla.dvorak@example.com,(720) 555-0113,17.01.2025,Austin,Pro
+C0485,Rosa Moreau,rosa.moreau@example.com,+1 512 555 0173,2026-04-20,Austin,Pro
+C0485,Rosa Moreau,ROSA.MOREAU@EXAMPLE.COM,+1 512 555 0173,2026-04-20,Austin,Pro
+C0486,Quinn Moreau,quinn.moreau@example.com,+1 720 555 0189,2024-12-22,Brno,Pro
+C0487,Rosa Horvat,rosa.horvat@example.com,+1 512 555 0185,2025/02/22,Vienna ,Basic
+C0488,Oscar Kowalski,oscar.kowalski@example.com,(512) 555-0124,2025-11-29,Berlin ,Pro
+C0489,Frank  Jensen,frank.jensen@example.com,(415) 555-0140,"Mar 02, 2024",Vienna,Pro
+C0490,David Muller,david.muller@example.com,+1 415 555 0155,01.05.2025,Krakow,Pro
+C0491,David Dvorak,david.dvorak@example.com,+1 312 555 0185,23.05.2026,Lyon,Pro
+C0492,Petra Garcia,  Petra.Garcia@example.com ,720.555.0171,12/02/2024,Vienna,Team
+C0493,Petra Brown,petra.brown@example.com,+1 312 555 0144,2024-03-07,Krakow ,Pro
+C0494,Anna  Brown,ANNA.BROWN@EXAMPLE.COM,555-0167,2026-02-12,Vienna,Team
+C0495,Anna Muller,anna.muller@example.com,555-0104,  2025-09-16 ,Brno ,Pro
+C0496,Leo Silva,leo.silva@example.com,512-555-0118,06.02.2024,Krakow,Pro
+C0497,Jakub Kowalski,JAKUB.KOWALSKI@EXAMPLE.COM,(212) 555-0156,"Jun 20, 2025",Krakow,Basic
+C0498,Carla Taylor,carla.taylor@example.com,312.555.0150,  2024-05-03 ,Prague,Team
+C0499,Sam Garcia,sam.garcia@example.com,212.555.0110,07.02.2026,Denver,Pro
+C0500,Elena Lopez,elena.lopez@example.com,720.555.0100,"Dec 10, 2024",Krakow,Basic
